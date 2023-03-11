@@ -1,1 +1,2 @@
 # Procoder-CSS-Background-video3
+In this video i learned css background using url and adding color property . but i faced a problem i couldn't fix it css background full height or cover pic i couldn't set up.

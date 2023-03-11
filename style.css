@@ -1,0 +1,22 @@
+.header{
+    background-color: #d39b9b;
+    padding: 10px;
+}
+.body{
+    background-color: tomato;
+    padding: 10px;
+}
+.header, .body{
+    text-align: center;
+}
+p{
+    background: url(/camera_lense_0.jpeg) ; 
+    background-color: red;
+    color:rgb(245, 245, 245);
+    padding: 10px;
+    scroll-behavior: inherit; 
+    height: 400px;width: auto;
+    background-repeat:no-repeat;
+    background-position: inherit;
+    text-align: center;
+}
